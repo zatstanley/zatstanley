@@ -5,12 +5,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=200&section=header&text=Manoela%20Stanley&fontSize=50&fontAlignY=35&desc=Transformando%20Dados%20em%20Decisões%20Estratégicas&descAlignY=55&descAlign=50&animation=twinkling"/>
 
 <!-- Avatar -->
-<a href="https://github.com/manoelastanley">
-  <img src="https://github.com/manoelastanley.png" width="180px" style="border-radius: 50%; border: 5px solid #667EEA; box-shadow: 0 0 30px #667EEA;"/>
+<a href="https://github.com/zatstanley">
+  <img src="https://github.com/zatstanley.png" width="180px" style="border-radius: 50%; border: 5px solid #667EEA; box-shadow: 0 0 30px #667EEA;"/>
 </a>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Data+Engineer+%7C+Full+Stack+Dev;Dashboards+%26+Data+Visualization;SQL+•+TypeScript+•+React+•+Next.js;Data-Driven+Decision+Making" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Data+Engineer+%7C+Full+Stack+Developer;Especialista+em+Dashboards+%26+Visualiza%C3%A7%C3%A3o;SQL+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js;Dados+como+pilar+da+tomada+de+decis%C3%A3o" alt="Typing SVG" />
 </p>
 
 </div>
@@ -99,17 +99,17 @@ const manoela: Developer = {
 ## 📊 GitHub Analytics
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manoelastanley&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelastanley&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zatstanley&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatstanley&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF"/>
 </p>
 
 <!-- Streak Stats -->
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoelastanley&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=F97316&currStreakLabel=667EEA"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zatstanley&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=F97316&currStreakLabel=667EEA"/>
 </p>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manoelastanley&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=667EEA&line=667EEA&point=FFFFFF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zatstanley&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=667EEA&line=667EEA&point=FFFFFF"/>
 
 </div>
 
@@ -163,8 +163,8 @@ const manoela: Developer = {
     <td width="50%">
       <h3 align="center">📊 Dashboard Analytics</h3>
       <div align="center">  
-        <a href="https://github.com/manoelastanley/dashboard-project" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=manoelastanley&repo=dashboard-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA" alt="Dashboard"/>
+        <a href="https://github.com/zatstanley/dashboard-project" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zatstanley&repo=dashboard-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA" alt="Dashboard"/>
         </a>
         <p>
           <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
@@ -177,8 +177,8 @@ const manoela: Developer = {
     <td width="50%">
       <h3 align="center">🗄️ Data Pipeline</h3>
       <div align="center">  
-        <a href="https://github.com/manoelastanley/data-pipeline" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=manoelastanley&repo=data-pipeline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA" alt="Pipeline"/>
+        <a href="https://github.com/zatstanley/data-pipeline" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zatstanley&repo=data-pipeline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA" alt="Pipeline"/>
         </a>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -264,7 +264,7 @@ const currentFocus = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/manoelastanley/manoelastanley/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/zatstanley/zatstanley/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -325,7 +325,7 @@ const currentFocus = {
 <br/>
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=manoelastanley&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zatstanley&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
 </p>
 
 </details>
@@ -339,16 +339,16 @@ const currentFocus = {
 <div align="center">
 
 <p>
-  <a href="https://linkedin.com/in/manoelastanley">
+  <a href="https://linkedin.com/in/zatstanley">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:manoela.stanley@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/manoelastanley">
+  <a href="https://github.com/zatstanley">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/manoelastanley">
+  <a href="https://twitter.com/zatstanley">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
@@ -368,11 +368,11 @@ const currentFocus = {
 
 ## 📊 Estatísticas de Visitantes
 
-<img src="https://komarev.com/ghpvc/?username=manoelastanley&color=667EEA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=zatstanley&color=667EEA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <br><br>
 
-<img src="https://count.getloli.com/get/@manoelastanley?theme=rule34" alt="Visitor Count"/>
+<img src="https://count.getloli.com/get/@zatstanley?theme=rule34" alt="Visitor Count"/>
 
 </div>
 
